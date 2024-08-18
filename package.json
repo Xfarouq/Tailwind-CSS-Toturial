@@ -1,0 +1,23 @@
+{
+  "name": "tailwind-css-toturial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss -i ./src/styles.css -o ./public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xfarouq/Tailwind-CSS-Toturial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xfarouq/Tailwind-CSS-Toturial/issues"
+  },
+  "homepage": "https://github.com/Xfarouq/Tailwind-CSS-Toturial#readme",
+  "dependencies": {
+    "tailwindcss": "^3.4.10"
+  }
+}
